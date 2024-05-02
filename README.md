@@ -1,5 +1,6 @@
 # Web side view
-![127 0 0 1_5500_index html](https://github.com/Achinthagithub/Responsive-Bootstrap-Website-/assets/122146942/8189e588-c4cd-4114-9949-85fb4b94e596)
+![127 0 0 1_5500_index html (1)](https://github.com/Achinthagithub/Responsive-Bootstrap-Website-/assets/122146942/169c0b14-722f-426c-b708-9c5ed0f71330)
+
 
 
 
